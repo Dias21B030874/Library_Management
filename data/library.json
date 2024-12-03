@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "Harry Potter",
+        "author": "Joan Rowling",
+        "year": 2000,
+        "status": "в наличии"
+    },
+    {
+        "id": 2,
+        "title": "Мертвые души",
+        "author": "Гоголь",
+        "year": 1845,
+        "status": "выдана"
+    }
+]
